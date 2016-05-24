@@ -1,0 +1,12 @@
+test
+// vm.weatherResponse.$promise.then(function(response){
+    //   console.log('Got data');
+    //   console.log(vm.weatherResponse.dt);  
+    // },function(error){
+    //   console.log('error..no data');
+    // });
+
+
+      <!-- <div>{{hm.cityName}}</div> --> 
+
+      ng-show="hm.weatherResponse
